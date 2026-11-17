@@ -1,2 +1,1 @@
-# Titan
-WIP Chess bot + Visualization 
+Welcome to Titan
